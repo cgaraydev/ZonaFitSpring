@@ -4,7 +4,6 @@ import camilo.zona_fit.modelo.Cliente;
 import camilo.zona_fit.repositorio.ClienteRepositorio;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-
 import java.util.List;
 
 @Service
